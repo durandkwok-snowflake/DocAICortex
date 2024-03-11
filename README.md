@@ -16,6 +16,7 @@ Create Database DOC_AI_DB and Schema DOC_AI_SCHEMA
 
 <img width="329" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/ee65757c-91c8-4b73-be09-e0a08621eb1e">
 
+
 Create Internal Stage
 
 <img width="1022" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/8da0638a-013c-4807-97bf-bee5b83c2f0a">
