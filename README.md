@@ -26,3 +26,27 @@ Upload File
 
 <img width="1034" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/b2302f72-72eb-49d4-9a47-3ac439aa1d70">
 
+```SQL
+SELECT a.c1 as "Extract From 2022Uber10K"
+,a.c2 as "Fiscal Year"
+, SNOWFLAKE.CORTEX.COMPLETE('mistral-7b', 'what is the following about '|| a.c1) as "What is this about"
+, SNOWFLAKE.CORTEX.COMPLETE('mistral-7b', 'What is this fiscal year for this report? '|| a.c2) as "Year" 
+, SNOWFLAKE.CORTEX.COMPLETE('mistral-7b', 'Can you give me a SWOT analysis based on the following '|| a.c1) as "SWOT" 
+, SNOWFLAKE.CORTEX.COMPLETE('mistral-7b', 'Can you give me a ranking of where Uber stands in ride share? '|| a.c1) as "Current Ranking"
+FROM 
+(
+select as_varchar(etresultsl2.value) as c2
+,as_varchar(etresultsl1.value) as c1 
+from (
+SELECT UBERTEST2020!PREDICT(
+  GET_PRESIGNED_URL(@DOC_TEST_STAGE2, 'Uber2022p125.pdf'),6 ) as results
+FROM DIRECTORY(@DOC_TEST_STAGE2)
+) et
+,LATERAL FLATTEN(et.results:"Competition"[0]) etresultsl1
+,LATERAL FLATTEN(et.results:"fiscalyear"[0] ) etresultsl2
+where etresultsl2.key='value'
+AND etresultsl1.key='value'
+) a
+;
+```SQL
+
