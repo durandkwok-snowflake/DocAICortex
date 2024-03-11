@@ -50,3 +50,15 @@ AND etresultsl1.key='value'
 ;
 ```
 
+<img width="1302" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/c8e876cc-690a-4cec-bff6-08c4bd73f217">
+
+SWOT
+
+<img width="1605" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/5114dae8-e5be-4010-8311-8a73e0cd890a">
+
+Ranking
+
+<img width="1589" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/f7afb776-d303-4754-9920-0d136cb3b747">
+
+
+
