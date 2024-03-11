@@ -12,7 +12,7 @@ Upload Uber10KPDF
 <img width="1675" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/ddc7e30a-2f79-477b-ab3d-ba72a0b60d51">
 Start asking questions
 <img width="1686" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/76614ae2-6c77-4efe-a207-51d7ed2d0267">
-Create Database DOC_AI_DB AND SCHEMA DOC_AI_SCHEMA
+Create Database DOC_AI_DB and SCHEMA DOC_AI_SCHEMA
 
 <img width="329" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/ee65757c-91c8-4b73-be09-e0a08621eb1e">
 
