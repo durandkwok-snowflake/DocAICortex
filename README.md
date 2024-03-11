@@ -48,5 +48,5 @@ where etresultsl2.key='value'
 AND etresultsl1.key='value'
 ) a
 ;
-```SQL
+```
 
