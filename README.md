@@ -2,7 +2,6 @@
 Select Document AI
 
 <img width="256" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/4e698108-c195-4ed5-9ca3-fe3781b04b85">
-Add Project
 
 Add Project
 <img width="1664" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/beeafe60-633c-495a-ba18-a54b9097d3b9">
