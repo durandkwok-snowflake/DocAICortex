@@ -26,7 +26,7 @@ Upload File
 
 <img width="1034" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/b2302f72-72eb-49d4-9a47-3ac439aa1d70">
 
-RUN ANALYSIS FOR FY2021
+RUN ANALYSIS FOR FY2021 10K
 ```SQL
 SELECT a.c1 as "Extract From 2022Uber10K"
 ,a.c2 as "Fiscal Year"
