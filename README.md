@@ -56,6 +56,10 @@ SWOT
 
 <img width="1605" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/5114dae8-e5be-4010-8311-8a73e0cd890a">
 
+Output
+
+<img width="1608" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/af46f222-1578-4838-8994-af57dee55073">
+
 Ranking
 
 <img width="1589" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/f7afb776-d303-4754-9920-0d136cb3b747">
