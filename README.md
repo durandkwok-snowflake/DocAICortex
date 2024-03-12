@@ -33,7 +33,7 @@ SELECT a.c1 as "Extract From 2022Uber10K"
 , SNOWFLAKE.CORTEX.COMPLETE('mistral-7b', 'what is the following about '|| a.c1) as "What is this about"
 , SNOWFLAKE.CORTEX.COMPLETE('mistral-7b', 'What is this fiscal year for this report? '|| a.c2) as "Year" 
 , SNOWFLAKE.CORTEX.COMPLETE('mistral-7b', 'Can you give me a SWOT analysis based on the following '|| a.c1) as "SWOT" 
-, SNOWFLAKE.CORTEX.COMPLETE('mistral-7b', 'Can you give me a ranking of where Uber stands in ride share? '|| a.c1) as "Current Ranking"
+, SNOWFLAKE.CORTEX.COMPLETE('mistral-7b', 'Where do Uber rank in ride sharing? '|| a.c1) as "Current Ranking"
 FROM 
 (
 select as_varchar(etresultsl2.value) as c2
