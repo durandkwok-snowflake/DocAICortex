@@ -26,6 +26,7 @@ Upload File
 
 <img width="1034" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/b2302f72-72eb-49d4-9a47-3ac439aa1d70">
 
+RUN ANALYSIS FOR FY2021
 ```SQL
 SELECT a.c1 as "Extract From 2022Uber10K"
 ,a.c2 as "Fiscal Year"
@@ -52,7 +53,7 @@ AND etresultsl1.key='value'
 
 <img width="1302" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/c8e876cc-690a-4cec-bff6-08c4bd73f217">
 
-SWOT
+SWOT ANALYSIS
 
 <img width="1605" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/5114dae8-e5be-4010-8311-8a73e0cd890a">
 
