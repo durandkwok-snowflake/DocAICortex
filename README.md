@@ -63,7 +63,10 @@ Output
 
 Ranking
 
-<img width="1589" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/f7afb776-d303-4754-9920-0d136cb3b747">
+<img width="1608" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/0d587cff-df81-4a96-a770-e860ddee0e3b">
+
+
+
 
 
 
