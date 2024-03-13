@@ -61,6 +61,9 @@ AND etresultsl1.key='value'
 ) a
 ;
 ```
+## Note: You'll need to input the current model version for the Predict Function:
+<img width="440" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/632fb763-3fa5-49a5-92fd-69b4997126c4">
+
 
 <img width="1302" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/c8e876cc-690a-4cec-bff6-08c4bd73f217">
 
