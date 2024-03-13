@@ -15,8 +15,14 @@ https://docs.snowflake.com/LIMITEDACCESS/document-ai/roles
 
 ## Upload Uber10KPDF
 <img width="1675" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/ddc7e30a-2f79-477b-ab3d-ba72a0b60d51">
-Start asking questions
+
+
+## Start asking questions
 <img width="1686" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/76614ae2-6c77-4efe-a207-51d7ed2d0267">
+
+## Start Training and Publish
+<img width="257" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/8ec53811-f0e4-4ddd-b36a-9aac196adc76">
+
 
 ## Create Database DOC_AI_DB and Schema DOC_AI_SCHEMA
 
