@@ -2,11 +2,11 @@
 
 ## Prerequisite:
 
-## Create Database DOC_AI_DB and Schema DOC_AI_SCHEMA
+### Create Database DOC_AI_DB and Schema DOC_AI_SCHEMA
 
 <img width="329" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/ee65757c-91c8-4b73-be09-e0a08621eb1e">
 
-## Create DocumentAI Roles
+### Create DocumentAI Roles
 https://docs.snowflake.com/LIMITEDACCESS/document-ai/roles
 
 ## Select Document AI
