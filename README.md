@@ -15,8 +15,9 @@
 https://docs.snowflake.com/LIMITEDACCESS/document-ai/roles
 
 
+##
 
-## Working with Document AI
+## Working with Document AI:
 
 <img width="256" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/4e698108-c195-4ed5-9ca3-fe3781b04b85">
 
