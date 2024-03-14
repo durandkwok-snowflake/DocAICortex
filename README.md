@@ -6,6 +6,11 @@
 
 <img width="329" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/ee65757c-91c8-4b73-be09-e0a08621eb1e">
 
+### Create Warehouse
+
+<img width="1379" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/1813ecb2-eb48-44b1-8cc1-ea627540e30f">
+
+
 ### Create DocumentAI Roles
 https://docs.snowflake.com/LIMITEDACCESS/document-ai/roles
 
