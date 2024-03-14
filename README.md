@@ -1,6 +1,12 @@
 # DocAICortex
 
 ## Prerequisite:
+
+## Create Database DOC_AI_DB and Schema DOC_AI_SCHEMA
+
+<img width="329" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/ee65757c-91c8-4b73-be09-e0a08621eb1e">
+
+## Create DocumentAI Roles
 https://docs.snowflake.com/LIMITEDACCESS/document-ai/roles
 
 ## Select Document AI
@@ -24,9 +30,6 @@ https://docs.snowflake.com/LIMITEDACCESS/document-ai/roles
 <img width="257" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/8ec53811-f0e4-4ddd-b36a-9aac196adc76">
 
 
-## Create Database DOC_AI_DB and Schema DOC_AI_SCHEMA
-
-<img width="329" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/ee65757c-91c8-4b73-be09-e0a08621eb1e">
 
 
 ## Create Internal Stage
