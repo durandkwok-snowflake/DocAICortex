@@ -91,7 +91,7 @@ AND etresultsl1.key='value'
 <img width="1608" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/0d587cff-df81-4a96-a770-e860ddee0e3b">
 
 
-## Notebook:
+## Snowflake Notebook:
 <img width="1686" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/b05c53b9-0671-4afa-a4ca-1e0250e87571">
 
 <img width="1682" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/ef6d6045-9fa9-4e68-8b59-a81184d71468">
