@@ -91,6 +91,25 @@ AND etresultsl1.key='value'
 <img width="1608" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/0d587cff-df81-4a96-a770-e860ddee0e3b">
 
 
+## Notebook:
+<img width="1686" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/b05c53b9-0671-4afa-a4ca-1e0250e87571">
+
+<img width="1682" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/ef6d6045-9fa9-4e68-8b59-a81184d71468">
+
+<img width="1077" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/59abd92b-7eb6-4044-9d98-8f2ba28455e8">
+
+<img width="1208" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/c605b1da-7685-487d-9b7d-4b3c481eea91">
+
+<img width="1217" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/38e8ef2e-a4ad-4f96-96cc-922330b64f92">
+
+<img width="1082" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/328d6012-4498-4ec8-85a7-88f4348b7de7">
+
+
+
+
+
+
+
 
 
 
