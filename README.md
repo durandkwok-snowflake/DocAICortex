@@ -14,6 +14,8 @@
 ### Create DocumentAI Roles
 https://docs.snowflake.com/LIMITEDACCESS/document-ai/roles
 
+## Large Language Model (LLM) Functions (Snowflake Cortex) required-privileges:
+https://docs.snowflake.com/en/user-guide/snowflake-cortex/llm-functions#required-privileges
 
 ##
 
