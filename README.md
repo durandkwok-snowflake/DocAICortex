@@ -76,7 +76,7 @@ select as_varchar(etresultsl2.value) as c2
 ,as_varchar(etresultsl1.value) as c1 
 from (
 SELECT UBERTEST2020!PREDICT(
-  GET_PRESIGNED_URL(@DOC_TEST_STAGE2, 'Uber2022p125.pdf'),**6** ) as results
+  GET_PRESIGNED_URL(@DOC_TEST_STAGE2, 'Uber2022p125.pdf'),6 ) as results
 FROM DIRECTORY(@DOC_TEST_STAGE2)
 ) et
 ,LATERAL FLATTEN(et.results:"Competition"[0]) etresultsl1
