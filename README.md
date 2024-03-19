@@ -50,8 +50,20 @@ https://docs.snowflake.com/LIMITEDACCESS/document-ai/roles
 
 ## RUN ANALYSIS FOR FY2021 10K
 ```SQL
-SELECT a.c1 as "Extract From 2022Uber10K"
-,a.c2 as "Fiscal Year"
+create or replace TABLE DOC_AI_DB.DOC_AI_SCHEMA.UBER10K_ANALYSIS (
+	"Fiscal_Year" VARCHAR,
+	"ExtractFrom2022Uber10K" VARCHAR,
+	"WhatIsThisAbout" VARCHAR,
+	"Year" VARCHAR,
+	SWOT VARCHAR,
+	"Current Ranking" VARCHAR
+);
+
+
+INSERT into UBER10K_ANALYSIS 
+SELECT 
+a.c2 as "Fiscal_Year"
+,a.c1 as "ExtractFrom2022Uber10K"
 , SNOWFLAKE.CORTEX.COMPLETE('mistral-7b', 'what is the following about '|| a.c1) as "What is this about"
 , SNOWFLAKE.CORTEX.COMPLETE('mistral-7b', 'What is this fiscal year for this report? '|| a.c2) as "Year" 
 , SNOWFLAKE.CORTEX.COMPLETE('mistral-7b', 'Can you give me a SWOT analysis based on the following '|| a.c1) as "SWOT" 
