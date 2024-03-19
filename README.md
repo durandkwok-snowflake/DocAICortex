@@ -94,9 +94,6 @@ AND etresultsl1.key='value'
 ```SQL
 SELECT swot  FROM UBER10K_ANALYSIS;
 ```
-<img width="1331" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/af3da7f4-687e-4932-a5f6-fb438cc218b0">
-
-
 
 ## Output
 
@@ -107,7 +104,9 @@ SELECT swot  FROM UBER10K_ANALYSIS;
 ```SQL
 SELECT "Current Ranking"  FROM UBER10K_ANALYSIS;
 ```
-<img width="1608" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/0d587cff-df81-4a96-a770-e860ddee0e3b">
+
+## Output
+<img width="1348" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/43660981-b2f1-41e2-be49-513c7c4f434b">
 
 
 ## Snowflake Notebook:
