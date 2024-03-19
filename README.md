@@ -91,6 +91,9 @@ AND etresultsl1.key='value'
 <img width="1302" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/c8e876cc-690a-4cec-bff6-08c4bd73f217">
 
 ## SWOT ANALYSIS
+```SQL
+SELECT swot  FROM UBER10K_ANALYSIS;
+```
 
 <img width="1605" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/5114dae8-e5be-4010-8311-8a73e0cd890a">
 
