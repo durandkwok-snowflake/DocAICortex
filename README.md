@@ -99,7 +99,9 @@ AND etresultsl1.key='value'
 <img width="1608" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/af46f222-1578-4838-8994-af57dee55073">
 
 ## Ranking
-
+```SQL
+SELECT "Current Ranking"  FROM UBER10K_ANALYSIS;
+```
 <img width="1608" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/0d587cff-df81-4a96-a770-e860ddee0e3b">
 
 
