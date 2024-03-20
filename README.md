@@ -127,6 +127,7 @@ SELECT "Current Ranking"  FROM UBER10K_ANALYSIS;
 
 <img width="1217" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/38e8ef2e-a4ad-4f96-96cc-922330b64f92">
 
+## Create Dataframe for Ranking
 <img width="1082" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/328d6012-4498-4ec8-85a7-88f4348b7de7">
 
 
