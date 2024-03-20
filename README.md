@@ -116,6 +116,7 @@ SELECT "Current Ranking"  FROM UBER10K_ANALYSIS;
 
 <img width="1682" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/ef6d6045-9fa9-4e68-8b59-a81184d71468">
 
+## Create Snowpark Dataframe for SWOT
 <img width="1077" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/59abd92b-7eb6-4044-9d98-8f2ba28455e8">
 
 ## Let's use Pandas dataframe for readability
