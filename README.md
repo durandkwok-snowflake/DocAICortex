@@ -120,11 +120,11 @@ SELECT "Current Ranking"  FROM UBER10K_ANALYSIS;
 
 ## Let's use Pandas dataframe for readability
 
-<img width="1208" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/c605b1da-7685-487d-9b7d-4b3c481eea91">
-
 <img width="1217" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/38e8ef2e-a4ad-4f96-96cc-922330b64f92">
 
 <img width="1082" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/328d6012-4498-4ec8-85a7-88f4348b7de7">
+
+
 
 
 
