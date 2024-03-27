@@ -93,6 +93,7 @@ AND etresultsl1.key='value'
 ;
 ```
 ## Note: You'll need to input the current model version for the Predict Function:
+## For example: version 6 is the current model: "GET_PRESIGNED_URL(@DOC_TEST_STAGE2, 'Uber2022p125.pdf'),6 ) as results"
 <img width="440" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/632fb763-3fa5-49a5-92fd-69b4997126c4">
 
 
