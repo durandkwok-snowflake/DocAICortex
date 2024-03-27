@@ -29,15 +29,15 @@ https://docs.snowflake.com/en/user-guide/snowflake-cortex/llm-functions#required
 <img width="768" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/0c016cf4-55a7-48d2-b7a9-15e23af87a9b">
 
 
-### Upload Uber10KPDF
+### Upload Uber10KPDF files
 <img width="1717" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortexNotebook-Demo/assets/109616231/df74ea8f-26d7-4308-823d-d5bd9c5644d1">
 
 
-<img width="1675" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/ddc7e30a-2f79-477b-ab3d-ba72a0b60d51">
-
-
-## Start asking questions
+## Start asking questions for both 10k
 <img width="1686" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/76614ae2-6c77-4efe-a207-51d7ed2d0267">
+
+<img width="1721" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortexNotebook-Demo/assets/109616231/0aa74470-95cd-4f2d-9b7e-c96b47403e1e">
+
 
 ## Start Training and Publish
 <img width="257" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/8ec53811-f0e4-4ddd-b36a-9aac196adc76">
