@@ -30,6 +30,9 @@ https://docs.snowflake.com/en/user-guide/snowflake-cortex/llm-functions#required
 
 
 ### Upload Uber10KPDF
+<img width="1717" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortexNotebook-Demo/assets/109616231/df74ea8f-26d7-4308-823d-d5bd9c5644d1">
+
+
 <img width="1675" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/ddc7e30a-2f79-477b-ab3d-ba72a0b60d51">
 
 
