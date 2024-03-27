@@ -36,6 +36,9 @@ https://docs.snowflake.com/en/user-guide/snowflake-cortex/llm-functions#required
 ## Start asking questions for both 10k
 <img width="1686" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortex/assets/109616231/76614ae2-6c77-4efe-a207-51d7ed2d0267">
 
+## Toggle Between 10Ks to Train
+<img width="843" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortexNotebook-Demo/assets/109616231/7dcc7e49-6c71-4c7d-a1f5-16d76de2efee">
+
 <img width="1721" alt="image" src="https://github.com/durandkwok-snowflake/DocAICortexNotebook-Demo/assets/109616231/0aa74470-95cd-4f2d-9b7e-c96b47403e1e">
 
 
